@@ -1,6 +1,6 @@
 ** Follow The below Steps to run the Project on local Machine. **
  Download the entire Project to Your Local Machine.
- After Downloading The whole Project just Extract the .zip file wherever You want in Ypor local Machine.
+ After Downloading The whole Project just Extract the .zip file wherever You want in Your local Machine.
  After Successfull Extraction of .zip file open it In VS Code.
  Then perform the below commands one-by-one in VS Code Terminal.
  
